@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfzwUzrNxrM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Modelo\\ToDoPortifolio.Modelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\mstest.analyzers\\4.0.2\\mstest.analyzers.4.0.2.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\mstest.testframework\\4.0.2\\mstest.testframework.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

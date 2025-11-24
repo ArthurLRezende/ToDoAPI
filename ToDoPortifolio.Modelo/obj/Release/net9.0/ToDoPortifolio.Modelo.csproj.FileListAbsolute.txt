@@ -1,0 +1,15 @@
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\bin\Release\net9.0\ToDoPortifolio.Modelo.deps.json
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\bin\Release\net9.0\ToDoPortifolio.Modelo.dll
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\bin\Release\net9.0\ToDoPortifolio.Modelo.pdb
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.AssemblyInfo.cs
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.dll
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\refint\ToDoPortifolio.Modelo.dll
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.pdb
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ref\ToDoPortifolio.Modelo.dll
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\bin\Release\net9.0\MSTest.TestFramework.Extensions.dll
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\bin\Release\net9.0\MSTest.TestFramework.Extensions.xml
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPortifolio.Modelo.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\ToDoPortifolio-api2\ToDoPortifolio.Modelo\obj\Release\net9.0\ToDoPort.6F78281D.Up2Date

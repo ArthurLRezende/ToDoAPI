@@ -1,0 +1,42 @@
+{
+  "profiles": {
+    "https": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "OPENAI_API_KEY": "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",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "ASPIRE_DASHBOARD_OTLP_ENDPOINT_URL": "https://localhost:21004",
+        "ASPIRE_RESOURCE_SERVICE_ENDPOINT_URL": "https://localhost:22130"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:17154;http://localhost:15119"
+    },
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Swagger/Index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "ASPIRE_DASHBOARD_OTLP_ENDPOINT_URL": "http://localhost:19166",
+        "ASPIRE_RESOURCE_SERVICE_ENDPOINT_URL": "http://localhost:20228"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:15119"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {
+        "ASPNETCORE_HTTPS_PORTS": "8081",
+        "ASPNETCORE_HTTP_PORTS": "8080"
+      },
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json"
+}
