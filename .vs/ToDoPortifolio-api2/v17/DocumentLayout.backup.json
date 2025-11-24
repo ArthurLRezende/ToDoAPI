@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764082BA-CE90-4729-BADA-0A2BA6E05AB5}|ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio.dados\\bancodedados\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764082BA-CE90-4729-BADA-0A2BA6E05AB5}|ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj|solutionrelative:todoportifolio.dados\\bancodedados\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\endpoints\\usuariosextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\endpoints\\tarefasextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\endpoints\\autenticaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\endpoints\\autenticaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\requests\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\requests\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\requests\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\requests\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\requests\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764082BA-CE90-4729-BADA-0A2BA6E05AB5}|ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio.dados\\bancodedados\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764082BA-CE90-4729-BADA-0A2BA6E05AB5}|ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj|solutionrelative:todoportifolio.dados\\bancodedados\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\endpoints\\autenticaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\endpoints\\autenticaextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{764082BA-CE90-4729-BADA-0A2BA6E05AB5}|ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio.dados\\bancodedados\\todoportifoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D493EE98-A1F4-4627-AE42-9CFC9567A749}|ToDoPortifolio.Modelo\\ToDoPortifolio.Modelo.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio.modelo\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D493EE98-A1F4-4627-AE42-9CFC9567A749}|ToDoPortifolio.Modelo\\ToDoPortifolio.Modelo.csproj|solutionrelative:todoportifolio.modelo\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|solutionrelative:todoportifolio-api2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EBE2FFA-2330-4B26-8375-AF531DEBCED4}|ToDoPortifolio-api2\\ToDoPortifolio.API.csproj|c:\\users\\arthu\\source\\repos\\todoportifolio-api2\\todoportifolio-api2\\response\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,33 +90,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
-              "RelativeDocumentMoniker": "ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
-              "RelativeToolTip": "ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T17:54:06.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TarefasExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
-              "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
-              "RelativeToolTip": "ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:10:57.666Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -125,14 +100,14 @@
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Program.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Program.cs",
               "RelativeToolTip": "ToDoPortifolio-api2\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAACgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:16:22.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AutenticaExtensions.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\AutenticaExtensions.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Endpoints\\AutenticaExtensions.cs",
@@ -140,12 +115,11 @@
               "RelativeToolTip": "ToDoPortifolio-api2\\Endpoints\\AutenticaExtensions.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:09:47.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:09:47.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ToDoPortifolioContext.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\BancoDeDados\\ToDoPortifolioContext.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio.Dados\\BancoDeDados\\ToDoPortifolioContext.cs",
@@ -157,56 +131,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "UsuarioRequest.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\UsuarioRequest.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Requests\\UsuarioRequest.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\UsuarioRequest.cs",
               "RelativeToolTip": "ToDoPortifolio-api2\\Requests\\UsuarioRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:13:59.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UsuariosExtensions.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\UsuariosExtensions.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Endpoints\\UsuariosExtensions.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\UsuariosExtensions.cs",
               "RelativeToolTip": "ToDoPortifolio-api2\\Endpoints\\UsuariosExtensions.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:11:42.219Z"
+              "WhenOpened": "2025-11-04T18:11:42.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\LoginRequest.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Requests\\LoginRequest.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\LoginRequest.cs",
               "RelativeToolTip": "ToDoPortifolio-api2\\Requests\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T18:13:06.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TarefaRequest.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\TarefaRequest.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Requests\\TarefaRequest.cs",
               "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Requests\\TarefaRequest.cs",
               "RelativeToolTip": "ToDoPortifolio-api2\\Requests\\TarefaRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:13:29.59Z",
+              "WhenOpened": "2025-11-04T18:13:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoPortifolio-api2\\appsettings.json",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\appsettings.json*",
+              "RelativeToolTip": "ToDoPortifolio-api2\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAADwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T18:15:58.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "TarefasExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
+              "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
+              "RelativeToolTip": "ToDoPortifolio-api2\\Endpoints\\TarefasExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:10:57.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
+              "RelativeDocumentMoniker": "ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
+              "RelativeToolTip": "ToDoPortifolio.Dados\\BancoDeDados\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:54:06.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "GPTExtensions.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\Endpoints\\GPTExtensions.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio-api2\\Endpoints\\GPTExtensions.cs",
@@ -214,12 +225,11 @@
               "RelativeToolTip": "ToDoPortifolio-api2\\Endpoints\\GPTExtensions.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAawBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:10:26.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:10:26.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ToDoPortifolio.Dados.csproj",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj",
               "RelativeDocumentMoniker": "ToDoPortifolio.Dados\\ToDoPortifolio.Dados.csproj",
@@ -231,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Modelo\\Modelos\\Tarefa.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio.Modelo\\Modelos\\Tarefa.cs",
@@ -243,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Modelo\\Modelos\\Usuario.cs",
               "RelativeDocumentMoniker": "ToDoPortifolio.Modelo\\Modelos\\Usuario.cs",
@@ -255,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ToDoPortifolio.Modelo.csproj",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio.Modelo\\ToDoPortifolio.Modelo.csproj",
               "RelativeDocumentMoniker": "ToDoPortifolio.Modelo\\ToDoPortifolio.Modelo.csproj",
@@ -264,18 +274,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-19T18:01:13.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoPortifolio-api2\\appsettings.json",
-              "ToolTip": "C:\\Users\\arthu\\source\\repos\\ToDoPortifolio-api2\\ToDoPortifolio-api2\\appsettings.json",
-              "RelativeToolTip": "ToDoPortifolio-api2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-04T18:15:58.164Z"
             },
             {
               "$type": "Document",
